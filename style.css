@@ -1,12 +1,22 @@
-﻿	/*body{
-	background: linear-gradient(-50deg,black,red);
-	}*/
-
-		body{
+﻿	body{
 		color: #535353;
 		font-size: 13px;
 		line-height: 1.5;
+		text-align: center;
+
 	}
+	#wrap{
+		width: 770px;
+		margin: 0 auto;
+		text-align: left;
+	}
+	.itemphoto{	
+		float:left;
+		margin-right:20px;
+		margin-bottom: 50px;
+
+	}
+
 	h2{
 		font-size: 185%;
 		border-left: 15px solid #668800;
@@ -18,13 +28,15 @@
 		font-size: 85%;
 		font-style: normal;
 		text-align: right;
-		border-top: 1px solid snow;
+		border-top: 1px solid #000000;
 		padding-top: 10px;
+		clear: left
 	}
 	h3{
 		padding: 5px;
 		border: 1px solid #668800;
 		font-size: 154%;
+		clear: left
 	}
 	h4{
 		font-size: 124%;
@@ -43,4 +55,25 @@
 		border: 1px solid #999999;
 		padding: 10px;
 		background-color: #eeeeeee;
+	}
+	ul{
+		background-color: #88aa00;
+		padding:  10px 20px;
+		box-shadow: 5px 5px 5px #060;
+
+	}
+	li{
+		list-style-type: none;
+		display: inline;
+		padding-right: 20px;
+		
+	}
+	li a:link{
+		color: #FFFFFF;
+	}
+	li a:visited{
+		color: #EEEE00;
+	}
+	li a:hover{
+		color: #000000;
 	}
