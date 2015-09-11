@@ -75,7 +75,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 166,
+				"buffer_size": 12,
 				"line_ending": "Windows"
 			}
 		}
@@ -599,7 +599,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 166,
+						"buffer_size": 12,
 						"regions":
 						{
 						},
