@@ -106,10 +106,7 @@
 		border-right: solid 1px #FFFFFF;
 	}
 	li:first-child a{
-		border-left: solid 10px #FFFFFF;
-
-
-		padding-right: 20px
+		border-left: solid 1px #FFFFFF;
 	}
 	li a:link{
 		color: #ffffff;
@@ -133,7 +130,7 @@
 	}
 	li{
 		float: left;
-		margin-right: 15px;
+		margin-right: 0px;
 		width: 100px;
 		text-align: center;
 		border-right: solid 1px #ffffff;
