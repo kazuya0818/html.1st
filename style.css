@@ -1,12 +1,6 @@
-﻿	body{
-<<<<<<< HEAD
-=======
-	background: linear-gradient(-250deg,white,red);
-	}
+﻿
+	body{
 
-
-		body{
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
 		color: #535353;
 		font-size: 13px;
 		line-height: 1.5;
@@ -24,47 +18,37 @@
 		margin-bottom: 50px;
 
 	}
-<<<<<<< HEAD
-=======
+
 	body{
 		text-align: center;
 	}
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
+
 
 	h2{
 		font-size: 185%;
 		border-left: 15px solid #668800;
 	/*	border-top: 1px solid #000000;*/
 		padding-left: 10px;
-<<<<<<< HEAD
-		
-
- 	}
-=======
-		clear: left;
 		}
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
+
+
 	address{
 		font-size: 85%;
 		font-style: normal;
 		text-align: right;
 		border-top: 1px solid #000000;
 		padding-top: 10px;
-<<<<<<< HEAD
 		clear: left
-=======
+
 		clear: left;
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
+
 	}
 	h3{
 		padding: 5px;
 		border: 1px solid #668800;
 		font-size: 154%;
-<<<<<<< HEAD
-		clear: left
-=======
+
 		clear: left;
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
 	}
 	h4{
 		font-size: 124%;
@@ -84,35 +68,18 @@
 		padding: 10px;
 		background-color: #eeeeeee;
 	}
-<<<<<<< HEAD
-	/*ul{
-		background-color: #88aa00;
-		padding:  10px 20px;
-		box-shadow: 5px 5px 5px #060;
 
-=======
 
-	#wrap{
-		width: 770px;
-		margin: 0 auto;
-		text-align: left;
-	}
-
-	.itemphoto{
-		float: left;
-		margin-right: 20px;
-		margin-bottom: 50px;
-	}
 	/*ul{
 		background-color: #88aa00;
 		padding: 10px 20px;
 		box-shadow: 5px 5px 10px black;
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
+
 	}
 	li{
 		list-style-type: none;
 		display: inline;
-<<<<<<< HEAD
+
 		padding-right: 20px;
 		
 	}
@@ -143,7 +110,7 @@
 	li:first-child a{
 		border-left: solid 10px #FFFFFF;
 
-=======
+
 		padding-right: 20px
 	}
 	li a:link{
@@ -175,7 +142,7 @@
 	}
 	li:first-child a {
 		border-left: solid 1px #ffffff;
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
+
 	}
 	li a {
 		display: block;
@@ -183,7 +150,7 @@
 		padding-bottom: 10px;
 		border-bottom: solid 5px transparent;
 	}
-<<<<<<< HEAD
+
 	li a:link{
 		color: #FFFFFF;
 		text-decoration: none;
@@ -196,21 +163,3 @@
 		color: #000000;
 		border-bottom: solid 5px #00ccff;
 		text-decoration: none;
-=======
-li a:link{
-		color: #ffffff;
-		text-decoration: none;
-	}
-	li a:visited{
-		color: #eeee00;
-		text-decoration: none;
-	}
-	li a:hover {
-		color: #000099;
-		text-decoration: none;
-		border-bottom: solid 5px #cc9900;
-	}
-	.aaa{
-		box-shadow: 5px 5px 5px black;
->>>>>>> 094b2630b6a842ef1d788ff2538befbbd79d412c
-	}
